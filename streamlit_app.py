@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Menghitung Volume :blue[Tabung] :rocket:")
+st.title("Menghitung :blue[Volume Tabung] :rocket:")
